@@ -1,6 +1,6 @@
 ### @zeandrade
 - 🔑 cybersecurity professional since 2006
-- ❤️ python, go, rust, lua, shell scripting
+- ❤️ python, go, rust, lua, shell scripting, php
 - 🏠 https://zeroandrade.com.br
 
 <!---
